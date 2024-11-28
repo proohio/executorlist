@@ -2,14 +2,13 @@
     {
         "name": "proohio",
         "unc": "100% unc",
-        "discord": "none",
         "website": "https://proohio.vercel.app/",
         "download": "https://proohio.vercel.app/"
     },
     {
         "name": "Axion",
         "unc": "100% unc",
-        "discord": "none",
+        "discord": "https://discord.gg/ZNpJQDUB",
         "website": "https://getaxion.vercel.app/",
         "download": "https://getaxion.vercel.app/"
     },
